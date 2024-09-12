@@ -21,7 +21,7 @@
     "parse5": "^1.4.0",
     "polyserve": "^0.2.0",
     "resolve": "^1.0.0",
-    "send": "^0.10.1"
+    "send": "^0.19.0"
   },
   "devDependencies": {
     "chai": "^1.9.2",
